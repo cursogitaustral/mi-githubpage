@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cursogitaustral.github.io/mi-githubpage/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi Nuevo Post sobre Github Pages</title>
+      <link>https://cursogitaustral.github.io/mi-githubpage/2022/07/01/mi-nuevo-post-sobre-github-pages/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cursogitaustral.github.io/mi-githubpage/2022/07/01/mi-nuevo-post-sobre-github-pages/</guid>
+      <description>Hola, este es mi primer blogpost, utilizando blogdown.</description>
+    </item>
+    
+    <item>
       <title>Un Nuevo Post</title>
       <link>https://cursogitaustral.github.io/mi-githubpage/2022/07/01/un-nuevo-post/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
